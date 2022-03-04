@@ -13,6 +13,8 @@
   <h3>
     <b>My name is Bruno and I am 21 years old.</b>
     <br>
+    <b>Living in Lençóis Paulista / São Paulo, Brazil.</b>
+    <br>
     <b>At the moment I'm studying to be an Android Dev using Java and Kotlin languages.</b>
     <br>
     <b>Feel free to send me any information that can help me on this path through my social networks above.</b>
