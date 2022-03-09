@@ -35,6 +35,8 @@
   &nbsp;
   <img alt="Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   &nbsp;
+  <img alt="Windows" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  &nbsp;
   <img alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
   &nbsp;
   <img alt="Kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
