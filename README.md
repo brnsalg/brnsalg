@@ -15,7 +15,7 @@
     <br>
     <b>Living in Lençóis Paulista / São Paulo, Brazil.</b>
     <br>
-    <b>At the moment I'm studying to be an Android Dev using Java and Kotlin languages.</b>
+    <b>At the moment I'm studying to be an Full-Stack Developer.</b>
     <br>
     <b>Feel free to send me any information that can help me on this path through my social networks above.</b>
   </h3>
@@ -31,15 +31,16 @@
 <br>
   
 <div align="center">
-  <img alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  
+  <img alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   &nbsp;
-  <img alt="Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
+  <img alt="Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   &nbsp;
-  <img alt="Windows" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   &nbsp;
-  <img alt="Ubuntu" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   &nbsp;
-  <img alt="Kotlin" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img alt="VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 <hr>
