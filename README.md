@@ -13,7 +13,7 @@
   <h3>
     <b>My name is Bruno and I am 21 years old.</b>
     <br>
-    <b>Living in Lençóis Paulista / São Paulo, Brazil.</b>
+    <b>Living in Lençóis Paulista - São Paulo, Brazil.</b>
     <br>
     <b>At the moment I'm studying to be an Full-Stack Developer.</b>
     <br>
