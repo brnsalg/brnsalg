@@ -24,22 +24,18 @@
 <hr>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brnsalg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnsalg&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brnsalg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnsalg&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <br>
   
 <div align="center">
-  <img alt="Symfony" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg">
+  <img alt="GO" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   &nbsp;
-  <img alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  &nbsp;
-  <img alt="Laravel" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img alt="HTML5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   &nbsp;
   <img alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  &nbsp;
-  <img alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
 <hr>
