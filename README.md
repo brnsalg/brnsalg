@@ -15,7 +15,7 @@
     <br>
     <b>Living in Lençóis Paulista - São Paulo, Brazil.</b>
     <br>
-    <b>At the moment I'm studying to be an Full-Stack Developer.</b>
+    <b>At the moment I'm studying to be an Go Developer.</b>
     <br>
     <b>Feel free to send me any information that can help me on this path through my social networks above.</b>
   </h3>
