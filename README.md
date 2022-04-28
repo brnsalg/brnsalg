@@ -1,5 +1,7 @@
 <hr>
 
+<br>
+
 <div align="center">
   <a href="https://www.instagram.com/brnsalg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
@@ -8,8 +10,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/brnsalg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
 </div>
-
-<hr>
 
 <div align="center">
   <h3>
