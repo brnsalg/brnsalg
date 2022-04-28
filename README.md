@@ -1,11 +1,11 @@
-<hr>
-
 <div align="center">
+  <!--
   <a href="https://www.instagram.com/brnsalg/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
   &nbsp;
   <a href="https://www.twitter.com/brnsalg/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> 
   &nbsp;
+  -->
   <a href="https://www.linkedin.com/in/brnsalg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
 </div>
 
@@ -17,7 +17,6 @@
   </h3>
 </div>
 
-<hr>
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brnsalg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
