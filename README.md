@@ -11,13 +11,9 @@
 
 <div align="center">
   <h3>
-    <b>My name is Bruno and I am 21 years old.</b>
+    <b>Hi, my name is Bruno.</b>
     <br>
-    <b>Living in Lençóis Paulista - São Paulo, Brazil.</b>
-    <br>
-    <b>At the moment I'm studying to be an Go Developer.</b>
-    <br>
-    <b>Feel free to send me any information that can help me on this path through my social networks above.</b>
+    <b>I study different things, but I focus more on Android.</b>
   </h3>
 </div>
 
@@ -29,11 +25,9 @@
 </div>
   
 <br>
-  
+<!-- 
 <div align="center">
-  <img alt="GO" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
+  <img alt="Android Studio" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
   &nbsp;
-  <img alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-</div>
-
 <hr>
+-->
