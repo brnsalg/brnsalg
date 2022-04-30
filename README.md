@@ -15,7 +15,7 @@
   <h3>
     <b>Hi, my name is Bruno.</b>
     <br>
-    <b>I study different things, but I focus more on Android.</b>
+    <b>I study different things, but I focus more on Back-End and Android/Mobile.</b>
   </h3>
 </div>
 
