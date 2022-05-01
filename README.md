@@ -13,9 +13,7 @@
 
 <div align="center">
   <h3>
-    <b>Hi, my name is Bruno.</b>
-    <br>
-    <b>I study different things, but I focus more on Back-End and Android/Mobile.</b>
+    <b>Hi, i study different things, but I focus more on Back-End and Android/Mobile.</b>
   </h3>
 </div>
 
