@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>
-    <b>Hi, i study different things, but I focus more on Back-End and Mobile.</b>
+    <b>Back-End and Mobile.</b>
   </h3>
 </div>
 
