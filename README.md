@@ -11,11 +11,11 @@
   <a href="https://www.linkedin.com/in/brnsalg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3>
     <b>Back-End and Mobile.</b>
   </h3>
-</div>
+</div> -->
 
 <br>
 
