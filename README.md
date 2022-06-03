@@ -14,7 +14,7 @@
   <br>
   
   <div align="center"> 
-      <h3><strong>Hello, my name is Bruno (22 years old)</strong></h3>
+      <h3><strong>Hi, my name is Bruno (22 years old)</strong></h3>
       <h3><strong>Back-end student focused on Go</strong></h3>
       <h6><i>but nothing stops me from learning new programming languages</i></h6>
   </div>
