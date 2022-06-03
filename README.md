@@ -1,3 +1,4 @@
+<div>
 <hr>
 
 <br>
@@ -11,23 +12,12 @@
   <a href="https://www.linkedin.com/in/brnsalg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> 
 </div>
 
-<!-- <div align="center">
-  <h3>
-    <b>Back-End and Mobile.</b>
-  </h3>
-</div> -->
-
 <br>
-
+  
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnsalg&layout=compact&langs_count=16&theme=omni"/>
+    <img src="https://gist.github.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnsalg&layout=compact&langs_count=16&theme=omni"/>
 </div>
   
-<br>
-<!-- 
-<div align="center">
-  <img alt="Android Studio" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  &nbsp;
 <hr>
--->
-<hr>
+</div>
