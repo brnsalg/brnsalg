@@ -15,7 +15,7 @@
   
   <div align="center"> 
       <h3><strong>Hi, my name is Bruno (22 years old)</strong></h3>
-      <h3><strong>Back-end student (a bit front-end too)</strong></h3>
+      <h3><strong>Full-Stack? Trying</strong></h3>
       <h6><i>i like different programming languages</i></h6>
   </div>
   
