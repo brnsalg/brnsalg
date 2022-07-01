@@ -14,9 +14,8 @@
   <br>
   
   <div align="center"> 
-      <h3><strong>Hi, my name is Bruno (22 years old)</strong></h3>
-      <h3><strong>Full-Stack? Trying</strong></h3>
-      <h6><i>i like different programming languages</i></h6>
+      <h3><strong>Bruno, 22y</strong></h3>
+      <h6><i>there are a lot of good ideas that only the code helps us to accomplish</i></h6>
   </div>
   
   <br>
