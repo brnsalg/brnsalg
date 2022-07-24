@@ -15,7 +15,7 @@
   
   <div align="center"> 
       <h3><strong>Bruno, 22y</strong></h3>
-      <h6><i>there are a lot of good ideas that only the code helps us to accomplish</i></h6>
+      <h6><i>There are people who, when they have an idea, we pray they forget about it.</i></h6>
   </div>
   
   <br>
