@@ -1,6 +1,7 @@
 <div> 
 
   <div align="center"> 
+    <a href="https://www.linkedin.com/in/brnsalg/" target="_blank"><img height="24rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <h3><strong>Yes, that's a portfolio!</strong></h3>
       <h6><i>(a minimalist portfolio)</i></h6>
   </div>
