@@ -12,7 +12,7 @@
 <!--        <img height="200rem" src="https://i.pinimg.com/originals/04/b5/71/04b5711d4299553b6a5cf9ce0eb25888.gif"/> -->
 <!--       <img height="200rem" src="https://i.pinimg.com/originals/ce/1b/98/ce1b98f417a952432db7ce945142068a.gif"/> -->
 <!--     <img height="200rem" src="https://giffiles.alphacoders.com/142/14239.gif"/> -->
-     <img height="200rem" src="https://giffiles.alphacoders.com/427/4272.gif"/>
+<!--      <img height="200rem" src="https://giffiles.alphacoders.com/427/4272.gif"/> -->
 <!--      <img height="200rem" src="https://giffiles.alphacoders.com/361/36178.gif"/> -->
   </div>
   </div>
@@ -33,6 +33,7 @@
     <img height="24rem" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
     <br>
     <img height="24rem" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img height="24rem" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
     <!--<img height="24rem" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>-->
     <!--<img height="24rem" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />-->
     
