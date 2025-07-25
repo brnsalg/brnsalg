@@ -18,7 +18,7 @@
   </div>
 
   <p align="center">
-    🔭 I'm currently working as a <strong>Level 2 Junior Full Stack Developer</strong>
+    🔭 I'm currently working as a <strong>Junior II Full Stack Developer</strong>
     <br>
     ⚡ In my free time, I work on a <strong>Comic App and a Personal AI Assistant</strong>
   </p>
