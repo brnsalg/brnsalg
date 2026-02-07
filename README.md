@@ -12,8 +12,8 @@
 
   <p align="center">
     <i><strong>🔭 Data & Analytics Developer Junior</strong></i>
-    <br>
-   ⚡Building a Comic App & a Personal AI Assistant
+    <!-- <br> -->
+   <!-- ⚡Building a Comic App & a Personal AI Assistant -->
   </p>
 
   <br>
