@@ -11,7 +11,9 @@
   <br>
 
   <p align="center">
-    <i><strong>🔭 Data & Analytics Developer Junior</strong></i>
+    <!-- <i><strong>🔭 Data & Analytics Developer Junior</strong></i> -->
+    <!-- <br> -->
+    <i><strong>🔭 FullStack Developer</strong></i>
     <!-- <br> -->
    <!-- ⚡Building a Comic App & a Personal AI Assistant -->
   </p>
