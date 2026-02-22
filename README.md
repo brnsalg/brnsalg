@@ -8,12 +8,12 @@
     <h6><i>(a minimalist portfolio)</i></h6>
   </div>
 
-  <br>
+  <!-- <br> -->
 
   <p align="center">
     <!-- <i><strong>🔭 Data & Analytics Developer Junior</strong></i> -->
     <!-- <br> -->
-    <i><strong>🔭 FullStack Developer</strong></i>
+    <!-- <i><strong>🔭 FullStack Developer</strong></i> -->
     <!-- <br> -->
    <!-- ⚡Building a Comic App & a Personal AI Assistant -->
   </p>
