@@ -8,7 +8,7 @@
     <h6><i>(a minimalist portfolio)</i></h6>
   </div>
  
-  <!-- <br> -->
+  <!-- <br>  -->
 
   <p align="center">
     <!-- <i><strong>🔭 Data & Analytics Developer Junior</strong></i> -->
