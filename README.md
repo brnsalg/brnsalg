@@ -9,7 +9,7 @@
   </div>
   
   <!-- <br> -->  
-   
+    
   <p align="center">
     <!-- <i><strong>🔭 Data & Analytics Developer Junior</strong></i> -->
     <!-- <br> -->
