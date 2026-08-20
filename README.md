@@ -7,7 +7,7 @@
     <h3><strong>Yes, that's a portfolio!</strong></h3>
     <h6><i>(a minimalist portfolio)</i></h6>
   </div>
-  
+   
   <!-- <br> -->  
     
   <p align="center">
