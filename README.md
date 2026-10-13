@@ -43,11 +43,6 @@
   <img src="https://img.shields.io/badge/Docker-171C26?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-171C26?style=flat-square&logo=linux&logoColor=white" />
 
-  <br>
-
-  <img src="https://img.shields.io/badge/TypeScript-171C26?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-171C26?style=flat-square&logo=react&logoColor=white" />
-
   <br><br><br>
 
   <sub>
