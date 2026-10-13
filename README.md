@@ -46,7 +46,7 @@
   <br><br><br>
 
   <sub>
-    backend · ai/llm · mlops · data engineering
+    backend · ai systems · mlops · data
   </sub>
 
 </div>
